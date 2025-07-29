@@ -1,6 +1,8 @@
 # SmmWolfix Cracker 
 
------
+![Screenshot of Tool](tool_screenshot.png)
+
+---
 
 ## Features
 
